@@ -26,7 +26,7 @@ def env_vars(**kwargs):
 def test_conf_access_hierachy():
     test_default_config = b"""\
 [test]
-a = 123
+a = 125
 b = true
 c = false
 d = 1.01

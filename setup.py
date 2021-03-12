@@ -148,3 +148,7 @@ setuptools.setup(
     },
     include_package_data=True,  # Required for '.cfg' files under bentoml/config
 )
+
+demo_dict = {
+  "test_key": "test_val"
+}
